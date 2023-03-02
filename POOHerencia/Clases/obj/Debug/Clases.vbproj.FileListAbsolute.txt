@@ -1,0 +1,10 @@
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\bin\Debug\Clases.dll
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\bin\Debug\Clases.pdb
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\bin\Debug\Clases.xml
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.vbproj.AssemblyReference.cache
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.Resources.resources
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.vbproj.GenerateResource.cache
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.vbproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.dll
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.xml
+C:\Users\Nathaniel\Desktop\dilan\POOHerencia\Clases\obj\Debug\Clases.pdb
